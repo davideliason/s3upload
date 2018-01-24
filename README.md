@@ -13,6 +13,6 @@ This is a proof of concept low-level application that focuses on the AWS s3 func
 ### Next steps:
 Next steps would be to fine tune access permissions, either by creating an authorization via application login, or by going the route of federated identities as the AWS example suggests. 
 
-[Form]('./s3UploadFileUpload.png')
-[Result]('./s3UploadResult.png')
+![Form]('./s3UploadFileUpload.png')
+![Result]('./s3UploadResult.png')
 [great resource](http://adventure-us.guide/uploading-images-s3-using-javascript-aws-sdk/)
